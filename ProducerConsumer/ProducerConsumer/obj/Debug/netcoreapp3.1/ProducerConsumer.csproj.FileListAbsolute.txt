@@ -1,0 +1,13 @@
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.exe
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.deps.json
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.runtimeconfig.json
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.runtimeconfig.dev.json
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.dll
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.pdb
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.AssemblyInfoInputs.cache
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.AssemblyInfo.cs
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.csproj.CoreCompileInputs.cache
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.dll
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.pdb
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.genruntimeconfig.cache
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.csprojAssemblyReference.cache

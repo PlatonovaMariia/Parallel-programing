@@ -1,0 +1,13 @@
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.exe
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.deps.json
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.runtimeconfig.json
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.runtimeconfig.dev.json
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.dll
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.pdb
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.csprojAssemblyReference.cache
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.AssemblyInfoInputs.cache
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.AssemblyInfo.cs
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.csproj.CoreCompileInputs.cache
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.dll
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.pdb
+D:\University data\1 курс магистратуры\2 семестр\Параллельное программирование\ThreadPool\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.genruntimeconfig.cache
